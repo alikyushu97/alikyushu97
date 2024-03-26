@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ouafa</h1>
 <h3 align="center">I am passionate about computer vision, Bandit Problems, Geometry and Deep Learning.</h3>
 
-- 🔭 I’m currently working on **Voronoi applications**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 📫 How to reach me **ouafa.ali.806@kyushu-u.ac.jp**
 
