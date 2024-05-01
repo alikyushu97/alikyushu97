@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 📫 How to reach me **ouafa.ali.806@kyushu-u.ac.jp**
+- 📫 How to reach me **ouafa.ali.806@m.kyushu-u.ac.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
