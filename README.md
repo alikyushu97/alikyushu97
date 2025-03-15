@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Ouafa</h1>
+<h1 align="center"></h1>
 <h3 align="center">I am passionate about computer vision, Bandit Problems, Geometry and Quantitative Finance.</h3>
 
 - 🔭 I’m currently working on **Computer Vision and Reinforcement Learning**
